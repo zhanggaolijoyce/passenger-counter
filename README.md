@@ -1,21 +1,5 @@
-# cwGp4RcJ
+I finish this simple project under Scrimba(https://scrimba.com/playlist/pY5b7sQ)
 
-Quick start:
+It can be used in counting. For a group, the number of counts is increased by 1 for each "Increment" button press. Then if you click the "save" button, the number of this group will be added to the sum, and the current counting number will return to 0, ready for counting the next group. And each time you click the "save" button, the sum will be shown after the previous ones, the format is like "4-8-17-".
 
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+I practiced html and javascript skills through this project. I learned how to show changeable texts on a specific location on a website and this is the first time I learned to interact with users through js.
